@@ -1,5 +1,4 @@
 __pycache__/
 venv/
-.env
 redis_data/
 requirements.txt
